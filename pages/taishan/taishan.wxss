@@ -1,0 +1,15 @@
+/* pages/taishan/taishan.wxss */
+.box{
+  margin: 5px;
+  border: 1px solid black;
+}
+image{
+  width: 100%;
+  height: 200px;
+}
+.tl{
+  border: 1px solid pink;
+}
+.text{
+  text-indent: 30px;
+}

@@ -1,0 +1,17 @@
+/**index.wxss**/
+.title{
+  text-align: center;
+}
+image{
+  float: left;
+  width: 100%;
+}
+.box{
+  margin: 15px;
+}
+image{
+  height: 200px;
+}
+.tex{
+  text-indent: 30px;
+}

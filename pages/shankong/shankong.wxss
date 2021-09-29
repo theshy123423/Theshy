@@ -1,0 +1,21 @@
+/* pages/shankong/shankong.wxss */
+.box{
+  border: solid 1px black;
+}
+
+.image1{
+  margin-top: 5px;
+  height: 200px;
+  width: 100%;
+}
+.image2{
+  height: 200px;
+  width: 100%;
+}
+.title{
+  font-size: 55rpx;
+  text-align: center;
+}
+.text{
+  text-indent: 30px;
+}

@@ -1,0 +1,20 @@
+/* pages/quancheng/quancheng.wxss */
+.image1{
+float: left;
+padding: 2px;
+width: 50%;
+height: 100px;
+}
+.image2{
+float: right;
+padding: 2px;
+width: 50%;
+height: 100px;
+}
+.tl{
+  border: solid 2px skyblue;
+  margin: 5px;
+}
+.text{
+  text-indent: 30px;
+}

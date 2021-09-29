@@ -1,0 +1,36 @@
+/* pages/hometown/hometown.wxss */
+.image1{
+  height: 115px;
+  width: 115px;
+  border-radius: 10px;
+  margin: 5px;
+  float: left;
+}
+.zhengti{
+  float: left;
+}
+.name{
+  margin-top:10px;
+  font-size:32rpx ;
+}
+.name2{
+  margin-top:10px;
+  font-size:32rpx ;
+}
+.btn{
+margin-top: 8px;
+background-color: #03A2F0;
+}
+.title{
+  font-size: 55rpx;
+  text-align: center;
+}
+.text{
+  text-indent: 30px;
+}
+.gechi{
+  margin-top: 20px;
+  float: left;
+  font-size: 25rpx;
+  text-align: center;
+}
